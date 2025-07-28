@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VoidYami/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VoidYami/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VoidYami/DSA/tree/master/0189-rotate-array) |
 | [2350-find-closest-number-to-zero](https://github.com/VoidYami/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VoidYami/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/VoidYami/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VoidYami/DSA/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
