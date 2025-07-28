@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VoidYami/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VoidYami/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/VoidYami/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VoidYami/DSA/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VoidYami/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
