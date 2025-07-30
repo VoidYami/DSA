@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VoidYami/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VoidYami/DSA/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/VoidYami/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2350-find-closest-number-to-zero](https://github.com/VoidYami/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
