@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VoidYami/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VoidYami/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/VoidYami/DSA/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VoidYami/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2350-find-closest-number-to-zero](https://github.com/VoidYami/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
