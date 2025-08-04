@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VoidYami/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VoidYami/DSA/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VoidYami/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2350-find-closest-number-to-zero](https://github.com/VoidYami/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -69,13 +70,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VoidYami/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
