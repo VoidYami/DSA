@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VoidYami/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VoidYami/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/VoidYami/DSA/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/VoidYami/DSA/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/VoidYami/DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VoidYami/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -122,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/VoidYami/DSA/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VoidYami/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VoidYami/DSA/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/VoidYami/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
