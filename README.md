@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/VoidYami/DSA/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/VoidYami/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VoidYami/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/VoidYami/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VoidYami/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VoidYami/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VoidYami/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/VoidYami/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VoidYami/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/VoidYami/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VoidYami/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VoidYami/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VoidYami/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/VoidYami/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VoidYami/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/VoidYami/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/VoidYami/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VoidYami/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
