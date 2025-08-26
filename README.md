@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VoidYami/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VoidYami/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VoidYami/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VoidYami/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VoidYami/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VoidYami/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VoidYami/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VoidYami/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VoidYami/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VoidYami/DSA/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VoidYami/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VoidYami/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/VoidYami/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VoidYami/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VoidYami/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VoidYami/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VoidYami/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/VoidYami/DSA/tree/master/0941-sort-array-by-parity) |
