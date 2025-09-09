@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VoidYami/DSA/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/VoidYami/DSA/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/VoidYami/DSA/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/VoidYami/DSA/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/VoidYami/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/VoidYami/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VoidYami/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/VoidYami/DSA/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/VoidYami/DSA/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VoidYami/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VoidYami/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/VoidYami/DSA/tree/master/0898-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
