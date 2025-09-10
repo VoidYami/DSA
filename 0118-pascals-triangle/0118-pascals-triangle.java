@@ -4,25 +4,22 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
        
 
-        int [][] temp = new int [numRows][numRows];
+        for(int i = 0; i<numRows;i++){
+            List<Integer> row =  new ArrayList<>();
 
-        for(int i=0; i<numRows; i++){
-            temp[i][0] = 1;
-            temp[i][i] =1;
-
-           for (int j = 1; j < i; j++) {
-                temp[i][j] = temp[i - 1][j - 1] + temp[i - 1][j];
-            }
-
-        }
-        for(int i =0; i<numRows; i++){
-            List<Integer> row = new ArrayList<>();
-            for(int j=0; j<=i; j++){
-                row.add(temp[i][j]);
+            for(int j =0; j<=i; j++){
+                if(j==0 || j == i){
+                    row.add(1);
+                }else{
+                    row.add(list.get(i-1).get(j-1) + list.get(i-1).get(j));
+                }
+                
             }
             list.add(row);
+            
         }
         return list;
+
         
     }
 }
